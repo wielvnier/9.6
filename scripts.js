@@ -1,6 +1,6 @@
 var newUlElem = document.createElement('ul');
 var newButtonElem = document.createElement('button');
-newButtonElem.innetText = "Dodaj wiersz";
+newButtonElem.innerText = "Dodaj wiersz";
 
 newUlElem.id += 'id-ul';
 newButtonElem.id += 'id-button';
